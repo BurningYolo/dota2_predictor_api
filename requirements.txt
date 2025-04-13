@@ -1,0 +1,4 @@
+flask
+numpy
+tensorflow
+scikit-learn
